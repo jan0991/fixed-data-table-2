@@ -19,8 +19,8 @@
 import emptyFunction from 'emptyFunction';
 import requestAnimationFramePolyfill from 'requestAnimationFramePolyfill';
 
-var MOVE_AMPLITUDE = 1.6;
-var DECELERATION_AMPLITUDE = 1.6;
+var MOVE_AMPLITUDE = 1.2;
+var DECELERATION_AMPLITUDE = 1.2;
 var DECELERATION_FACTOR = 325;
 var TRACKER_TIMEOUT = 100;
 
