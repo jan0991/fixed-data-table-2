@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d542259e-462e-45e2-828c-3aabc58a9894" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/ReactTouchHandler.js" afterPath="$PROJECT_DIR$/src/ReactTouchHandler.js" />
+      <change beforePath="$PROJECT_DIR$/dist/fixed-data-table.js" afterPath="$PROJECT_DIR$/dist/fixed-data-table.js" />
+      <change beforePath="$PROJECT_DIR$/dist/fixed-data-table.min.js" afterPath="$PROJECT_DIR$/dist/fixed-data-table.min.js" />
+      <change beforePath="$PROJECT_DIR$/internal/ReactTouchHandler.js" afterPath="$PROJECT_DIR$/internal/ReactTouchHandler.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,8 +24,8 @@
       <file leaf-file-name="ReactTouchHandler.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ReactTouchHandler.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+            <state relative-caret-position="-1260">
+              <caret line="22" column="33" lean-forward="false" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -217,12 +219,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522057967769</updated>
-      <workItem from="1522057969556" duration="2535000" />
+      <workItem from="1522057969556" duration="2597000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2535000" />
+    <option name="totallyTimeSpent" value="2597000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="6" y="1125" width="2194" height="724" extended-state="0" />
@@ -286,8 +288,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ReactTouchHandler.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        <state relative-caret-position="-1260">
+          <caret line="22" column="33" lean-forward="false" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
           <folding />
         </state>
       </provider>
