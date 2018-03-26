@@ -22,7 +22,7 @@ import requestAnimationFramePolyfill from 'requestAnimationFramePolyfill';
 var MOVE_AMPLITUDE = 1.2;
 var DECELERATION_AMPLITUDE = 1.2;
 var DECELERATION_FACTOR = 325;
-var TRACKER_TIMEOUT = 0;
+var TRACKER_TIMEOUT = 100;
 
 class ReactTouchHandler {
   /**
