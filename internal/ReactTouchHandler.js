@@ -33,7 +33,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 var MOVE_AMPLITUDE = 1.4;
 var DECELERATION_AMPLITUDE = 1.4;
 var DECELERATION_FACTOR = 0;
-var TRACKER_TIMEOUT = 0;
+var TRACKER_TIMEOUT = 100;
 
 var ReactTouchHandler = function () {
   /**
