@@ -3,69 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d542259e-462e-45e2-828c-3aabc58a9894" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/dist/fixed-data-table-base.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/fixed-data-table-base.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/fixed-data-table-base.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/fixed-data-table-base.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/fixed-data-table-style.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/fixed-data-table-style.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/fixed-data-table-style.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/fixed-data-table-style.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/fixed-data-table.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/fixed-data-table.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/fixed-data-table.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/fixed-data-table.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/BrowserSupportCore.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/DOMMouseMoveTracker.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/EventListener.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/ExecutionEnvironment.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/FixedDataTable.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/FixedDataTableBufferedRows.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/FixedDataTableCell.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/FixedDataTableCellDefault.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/FixedDataTableCellGroup.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/FixedDataTableColumn.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/FixedDataTableColumnGroup.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/FixedDataTableColumnReorderHandle.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/FixedDataTableColumnResizeHandle.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/FixedDataTableEventHelper.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/FixedDataTableHelper.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/FixedDataTableRoot.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/FixedDataTableRow.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/FixedDataTableRowBuffer.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/FixedDataTableScrollHelper.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/FixedDataTableTranslateDOMPosition.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/FixedDataTableWidthHelper.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/Heap.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/IntegerBufferSet.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/Keys.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/Locale.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/Object.assign.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/PrefixIntervalTree.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/React.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/ReactComponentWithPureRenderMixin.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/ReactDOM.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/ReactTouchHandler.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/ReactWheelHandler.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/Scrollbar.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/UserAgent_DEPRECATED.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/camelize.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/cancelAnimationFramePolyfill.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/clamp.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/cssVar.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/cx.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/debounceCore.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/emptyFunction.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/getVendorPrefixedName.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/invariant.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/isEventSupported.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/joinClasses.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/nativeRequestAnimationFrame.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/normalizeWheel.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/requestAnimationFramePolyfill.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/shallowEqual.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/internal/translateDOMPositionXY.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/ReactTouchHandler.js" afterPath="$PROJECT_DIR$/src/ReactTouchHandler.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -85,8 +22,8 @@
       <file leaf-file-name="ReactTouchHandler.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ReactTouchHandler.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+            <state relative-caret-position="392">
+              <caret line="30" column="82" lean-forward="true" selection-start-line="30" selection-start-column="82" selection-end-line="30" selection-end-column="82" />
               <folding />
             </state>
           </provider>
@@ -287,7 +224,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3903000" />
+    <option name="totallyTimeSpent" value="3912000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="6" y="1124" width="2119" height="724" extended-state="0" />
@@ -366,8 +303,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ReactTouchHandler.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        <state relative-caret-position="308">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReactTouchHandler.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FixedDataTableRoot.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FixedDataTableRoot.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReactTouchHandler.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="30" column="82" lean-forward="true" selection-start-line="30" selection-start-column="82" selection-end-line="30" selection-end-column="82" />
           <folding />
         </state>
       </provider>
