@@ -2,9 +2,70 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d542259e-462e-45e2-828c-3aabc58a9894" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/dist/fixed-data-table.js" afterPath="$PROJECT_DIR$/dist/fixed-data-table.js" />
-      <change beforePath="$PROJECT_DIR$/dist/fixed-data-table.min.js" afterPath="$PROJECT_DIR$/dist/fixed-data-table.min.js" />
-      <change beforePath="$PROJECT_DIR$/internal/ReactTouchHandler.js" afterPath="$PROJECT_DIR$/internal/ReactTouchHandler.js" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/dist/fixed-data-table-base.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/fixed-data-table-base.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/fixed-data-table-base.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/fixed-data-table-base.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/fixed-data-table-style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/fixed-data-table-style.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/fixed-data-table-style.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/fixed-data-table-style.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/fixed-data-table.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/fixed-data-table.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/fixed-data-table.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/fixed-data-table.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/BrowserSupportCore.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/DOMMouseMoveTracker.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/EventListener.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/ExecutionEnvironment.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/FixedDataTable.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/FixedDataTableBufferedRows.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/FixedDataTableCell.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/FixedDataTableCellDefault.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/FixedDataTableCellGroup.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/FixedDataTableColumn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/FixedDataTableColumnGroup.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/FixedDataTableColumnReorderHandle.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/FixedDataTableColumnResizeHandle.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/FixedDataTableEventHelper.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/FixedDataTableHelper.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/FixedDataTableRoot.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/FixedDataTableRow.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/FixedDataTableRowBuffer.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/FixedDataTableScrollHelper.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/FixedDataTableTranslateDOMPosition.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/FixedDataTableWidthHelper.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/Heap.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/IntegerBufferSet.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/Keys.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/Locale.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/Object.assign.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/PrefixIntervalTree.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/React.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/ReactComponentWithPureRenderMixin.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/ReactDOM.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/ReactTouchHandler.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/ReactWheelHandler.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/Scrollbar.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/UserAgent_DEPRECATED.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/camelize.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/cancelAnimationFramePolyfill.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/clamp.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/cssVar.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/cx.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/debounceCore.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/emptyFunction.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/getVendorPrefixedName.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/invariant.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/isEventSupported.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/joinClasses.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/nativeRequestAnimationFrame.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/normalizeWheel.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/requestAnimationFramePolyfill.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/shallowEqual.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/internal/translateDOMPositionXY.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/ReactTouchHandler.js" afterPath="$PROJECT_DIR$/src/ReactTouchHandler.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,28 +81,24 @@
     <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="ReactTouchHandler.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ReactTouchHandler.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1260">
-              <caret line="22" column="33" lean-forward="false" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FixedDataTableRoot.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FixedDataTableRoot.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-218">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="169">
+              <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>1.0</find>
+      <find>TRACKER_TIMEOUT</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -69,8 +126,8 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="6" />
-    <option name="y" value="1125" />
-    <option name="width" value="2194" />
+    <option name="y" value="1124" />
+    <option name="width" value="2119" />
     <option name="height" value="724" />
   </component>
   <component name="ProjectView">
@@ -88,7 +145,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -96,13 +152,19 @@
               <item name="fixed-data-table-2" type="b2602c69:ProjectViewProjectNode" />
               <item name="fixed-data-table-2" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="fixed-data-table-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fixed-data-table-2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -219,43 +281,44 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522057967769</updated>
-      <workItem from="1522057969556" duration="2597000" />
+      <workItem from="1522057969556" duration="3132000" />
+      <workItem from="1522268261648" duration="771000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2597000" />
+    <option name="totallyTimeSpent" value="3903000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="6" y="1125" width="2194" height="724" extended-state="0" />
+    <frame x="6" y="1124" width="2119" height="724" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24976744" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2573494" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -270,7 +333,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/main.js">
+    <entry file="file://$PROJECT_DIR$/src/ReactTouchHandler.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -280,7 +343,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FixedDataTableRoot.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-218">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FixedDataTableRoot.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -288,8 +366,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ReactTouchHandler.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1260">
-          <caret line="22" column="33" lean-forward="false" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        <state relative-caret-position="169">
+          <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
           <folding />
         </state>
       </provider>
