@@ -30,10 +30,10 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 
-var MOVE_AMPLITUDE = 1.6;
+var MOVE_AMPLITUDE = 1.3;
 var DECELERATION_AMPLITUDE = 1.6;
-var DECELERATION_FACTOR = 250;
-var TRACKER_TIMEOUT = 80;
+var DECELERATION_FACTOR = 300;
+var TRACKER_TIMEOUT = 10;
 
 var ReactTouchHandler = function () {
   /**

@@ -19,10 +19,10 @@
 import emptyFunction from 'emptyFunction';
 import requestAnimationFramePolyfill from 'requestAnimationFramePolyfill';
 
-var MOVE_AMPLITUDE = 1.6;
+var MOVE_AMPLITUDE = 1.3;
 var DECELERATION_AMPLITUDE = 1.6;
-var DECELERATION_FACTOR = 250;
-var TRACKER_TIMEOUT = 80;
+var DECELERATION_FACTOR = 300;
+var TRACKER_TIMEOUT = 10;
 
 class ReactTouchHandler {
   /**
